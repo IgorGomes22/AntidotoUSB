@@ -1,4 +1,5 @@
 # 🛡️ AntidotoUSB v1.0.0
+![image](https://github.com/IgorGomes22/AntidotoUSB/blob/main/interface.png)
 
 O **AntidotoUSB** é um utilitário leve e eficaz desenvolvido em **C++** com o framework **Qt 6**. Ele foi criado para combater o famoso "vírus de atalho" (falsos executáveis `.exe`) que infecta dispositivos de armazenamento removíveis, ocultando os arquivos legítimos do usuário.
 
